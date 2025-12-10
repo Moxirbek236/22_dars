@@ -1,0 +1,18 @@
+[
+    {
+        "incomeId": 1,
+        "amount": 5000000,
+        "purpose": [
+            "Oylik"
+        ]
+    },
+    {
+        "incomeId": 2,
+        "amount": 100,
+        "purpose": [
+            "Maktab",
+            "oylik",
+            "it"
+        ]
+    }
+]
